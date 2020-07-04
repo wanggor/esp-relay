@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name trafokecil)(type KiCad)(uri ${KIPRJMOD}/lib/trafokecil.pretty)(options "")(descr ""))
+)
